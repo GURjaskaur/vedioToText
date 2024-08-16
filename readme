@@ -1,0 +1,5 @@
+# this project converts the vedio into text , i needed to install some packages like
+#pip install ffmpeg-python speechrecognition pydub
+# IMP -- add c:/ffmpeg/bin to the environment variable-> path 
+
+#here is a demonstration ... but there is scope of improvment and experiment with different types of video to check the corrections and feasiblity.
